@@ -1,1 +1,1 @@
-# table2.html
+# https://github.com/rohitandey/table2.html/releases/tag/v1.0
